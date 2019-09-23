@@ -7,5 +7,6 @@ public class MyClass {
         w = new Complejo(-1.2, 2.4);
         z.suma(w);
         System.out.println("Complejo: " + z.toString());
+        System.out.println("Hola mundo");
     }
 }
